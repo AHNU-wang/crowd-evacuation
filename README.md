@@ -71,3 +71,10 @@
 ### Comparison Methods
 - **Evacuation Time**: Measure the average evacuation time under different algorithms.
 - **Loss and Reward**: Compare the trends of loss and reward during training between the MARL algorithm and baseline algorithms.
+## Relevant Resources and Tools
+- [MATD3 Algorithm Details](https://docs.agilerl.com/en/latest/api/algorithms/matd3.html)
+- [MA-SAC Algorithm Details](https://github.com/puyuan1996/MARL)
+- [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
+- [Unity Reinforcement Learning Integration Guide](https://unity-technologies.github.io/ml-agents/Getting-Started/)
+- [Data-driven crowd evacuation](https://www.sciencedirect.com/science/article/pii/S0925231219311488)
+- [Crowd evacuation path planning and simulation method](https://link.springer.com/article/10.1007/s10489-024-06074-w)
