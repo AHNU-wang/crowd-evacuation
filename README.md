@@ -5,6 +5,7 @@
 ## Phase 1: Algorithm Selection and Improvement (1 month)
 
 ### Week 1-2:
+- Build disaster evacuation scenarios in Unity.
 - Research MATD3 and MA-SAC algorithms.
 - Select the most suitable algorithm based on the application scenario.
   - [MATD3 Algorithm Details](https://docs.agilerl.com/en/latest/api/algorithms/matd3.html)
@@ -25,22 +26,21 @@
 - Continuously train and refine the model.
 - Perform initial performance testing and adjustments.
 
-## Phase 3: Unity Simulation (2 months)
+## Phase 3: Unity Simulation (1 months)
 
-### Week 13-16:
+### Week 13-14:
 - Implement the interface between Unity and the MARL algorithm.
   - [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
   - [Unity Reinforcement Learning Integration Guide](https://unity-technologies.github.io/ml-agents/Getting-Started/)
-- Build disaster evacuation scenarios in Unity.
 - Conduct initial simulation tests to ensure proper integration.
 
-### Week 17-20:
+### Week 15-16:
 - Conduct multiple simulation tests to record evacuation times and paths.
 - Fine-tune the Unity simulation environment for accuracy and realism.
 
 ## Phase 4: Performance Comparison and Optimization (1 month)
 
-### Week 21-24:
+### Week 17-21:
 - Compare the MARL algorithm with baseline static path planning algorithms.
 - Metrics for comparison:
   - Average evacuation time
